@@ -1,5 +1,7 @@
 # DatabasePool
 
+## A simple DatabasePool
+
 ### Run
 
 ##### 1. mkdir build	
